@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+<img width="993" height="710" alt="AdobeExpressPhotos_9bb73019889e42f2b4411563656a0ce6_CopyEdited" src="https://github.com/user-attachments/assets/395c693d-2e0d-4f6a-a692-03dc20b05f66" />
 
 
 ## RESULT:
